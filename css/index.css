@@ -1,0 +1,77 @@
+/* Danh Sach Giang Vien */
+.DSGV .DSGVHeader{
+    border: 1px solid black;
+}
+
+.DSGV .DSGVHeader .DSGVHeader-left i {
+    font-size: 35px;
+    color: white;
+}
+
+.DSGV .DSGVHeader .DSGVHeader-right{
+    text-align: right;
+}
+
+.DSGV .DSGVHeader .DSGVHeader-right i {
+    font-size: 35px;
+    color: white;
+}
+
+/* .DSGV .DSGVBody .createGV{
+    width: 100px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    color: white;
+} */
+
+/* .DSGV .DSGVBody .createGV .createGV-lable{
+    text-align: left;
+} */
+
+.DSGV .DSGVBody table tr td a:nth-child(2) {
+    padding: 0 3px;
+    border-right: 1px solid black;
+    border-left: 1px solid black;
+}
+
+
+/* Thong Tin Chi Tiet Giang Vien */
+
+.TTGV .TTGVHeader{
+    border: 1px solid black;
+}
+
+.TTGV .TTGVHeader .TTGVHeader-left i {
+    font-size: 35px;
+    color: white;
+}
+
+.TTGV .TTGVHeader .TTGVHeader-right{
+    text-align: right;
+}
+
+.TTGV .TTGVHeader .TTGVHeader-right i {
+    font-size: 35px;
+    color: white;
+}
+
+
+/* Danh Sach Sinh Vien */
+.DSSV .DSSVHeader{
+    border: 1px solid black;
+}
+
+.DSSV .DSSVHeader .DSSVHeader-left i {
+    font-size: 35px;
+    color: white;
+}
+
+.DSSV .DSSVHeader .DSSVHeader-right{
+    text-align: right;
+}
+
+.DSSV .DSSVHeader .DSSVHeader-right i {
+    font-size: 35px;
+    color: white;
+}
